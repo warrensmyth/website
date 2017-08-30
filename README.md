@@ -16,3 +16,5 @@ Don't forget to check out the wealth of valuable information available from [Git
 
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+
+If you want to learn to design yachts, check out [Westlawn Institute of Marine Technology](http://westlawn.edu)
